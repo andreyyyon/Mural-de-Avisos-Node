@@ -1,4 +1,4 @@
-# Mural-de-Avisos-Node
+# Mural de Avisos
 Criação de API e integração com o front-end para um Mural de Avisos
 
 Pequena API em Node.js com front-end estático para um Mural de Avisos. Projeto usa Express, CORS e body-parser; os dados ficam em memória (arquivo de modelo).
